@@ -139,7 +139,7 @@ const actions = {
     const SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search'
     axios.get(SEARCH_URL, {
       params: {
-        key: 'AIzaSyDo5Xhj4cJBTpG1Uogx6bur14BCRRP8t4c',
+        key: 'AIzaSyBL4ufXXJ4N2Vn0SQKfMpAZkq1jhrn66xk',
         type: 'video',
         mine: 'true',
         maxResults: '25',
